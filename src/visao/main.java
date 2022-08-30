@@ -5,6 +5,7 @@ public class main {
 
 	public static void main(String[] args) {
 		
+		//instanciar objetos
 		Aluno a1 = new Aluno();
 		Aluno a2 = new Aluno();
 		Aluno a3 = new Aluno();
@@ -145,7 +146,5 @@ public class main {
 		}while(opc != 7);
 		
 		System.out.println("VC SAIU!!!");
-
 	}
-
 }
