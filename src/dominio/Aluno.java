@@ -13,7 +13,8 @@ public class Aluno {
 	//Questão pede um construtor vazio
 	public Aluno() {	
 	}
-
+	//Variaveis iniciadas dentro dos metodos	
+	
 	public void setNome(String novoNome) {
 		this.nome = novoNome;
 	}
