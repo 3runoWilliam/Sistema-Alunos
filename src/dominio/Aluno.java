@@ -10,6 +10,7 @@ public class Aluno {
 	private float media;
 	private String situação;
 	
+	//Questão pede um construtor vazio
 	public Aluno() {	
 	}
 
